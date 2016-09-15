@@ -16,8 +16,9 @@
 ´Á->[Rolan](http://www.irolan.com/)¡£
 ###2. Everything
 EverythingÊÇvoidtools¿ª·¢µÄÒ»¿îÎÄ¼þËÑË÷¹¤¾ß£¬
-¹ÙÍøÃèÊöÎª¡°»ùÓÚÃû³ÆÊµÊ±¶¨Î»ÎÄ¼þºÍÄ¿Â¼£¨Locate files and folders by name instantly£©¡±¡£
+¹ÙÍøÃèÊöÎª`»ùÓÚÃû³ÆÊµÊ±¶¨Î»ÎÄ¼þºÍÄ¿Â¼£¨Locate files and folders by name instantly£©`¡£
 ![everything](https://github.com/Jarvis03/daily_notes/blob/master/picture/everything.jpg)
+
 1. Ìå»ýÐ¡
 2. ËÑË÷¿ì
 3. ½çÃæ¼ò½à
@@ -27,6 +28,7 @@ EverythingÊÇvoidtools¿ª·¢µÄÒ»¿îÎÄ¼þËÑË÷¹¤¾ß£¬
 Bandizip ÊÇÒ»¿îÀ´×Ôº«¹úµÄÃâ·ÑÓÅÐãµÄÎÄ¼þÑ¹Ëõ/½âÑ¹ËõÈí¼þ,Ö§³ÖWinÓëMac£¬Æä²Ù×÷·½Ê½¼¸ºõ¸ú WinRAR Ò»ÖÂ£¬Ö§³Örar¡¢zip¡¢7zµÈÖÚ¶àÖ÷Á÷¸ñÊ½£¬
 ÇÒÍêÃÀÖ§³Ö XP¡«Win10¼°64Î»²Ù×÷ÏµÍ³.
 ![bandzip](https://github.com/Jarvis03/daily_notes/blob/master/picture/bandzip.jpg)
+
 ÈçÍ¼£¬Bandizip µÄ½çÃæ·Ç³£¼ò½à¸É¾»£¬²¼¾ÖºÍ WinRAR »ù±¾Ò»ÖÂ
 
 - Ìå»ýÐ¡
@@ -37,7 +39,8 @@ Bandizip ÊÇÒ»¿îÀ´×Ôº«¹úµÄÃâ·ÑÓÅÐãµÄÎÄ¼þÑ¹Ëõ/½âÑ¹ËõÈí¼þ,Ö§³ÖWinÓëMac£¬Æä²Ù×÷·½Ê½¼
 ### 4.Clover
 CloverµÄ¹¦ÄÜ¾ÍÊÇ¸ø×ÊÔ´¹ÜÀíÆ÷¼ÓÉÏ**Chrome**Ò»ÑùµÄ±êÇ©Ò³¡£
 ![clover](https://github.com/Jarvis03/daily_notes/blob/master/picture/clover.jpg)
-Clover Ö»ÓÐÕâÃ´Ò»¸ö¹¦ÄÜ£¬µ«ÊÇ×öµÄÎ©ÃîÎ©Ð¤¡£Clover °Ñ Chrome ±êÇ©Ò³ÓÐµÄÑùÊ½¡¢¹¦ÄÜ¡¢ÓÒ¼ü²Ëµ¥¡¢¿ì½Ý¼üÈ«²¿ÒÆÖ²£¬Chrome ¿ØË²¼äÉÏÊÖ¡£
+
+**Clover**Ö»ÓÐÕâÃ´Ò»¸ö¹¦ÄÜ£¬µ«ÊÇ×öµÄÎ©ÃîÎ©Ð¤¡£Clover °Ñ Chrome ±êÇ©Ò³ÓÐµÄÑùÊ½¡¢¹¦ÄÜ¡¢ÓÒ¼ü²Ëµ¥¡¢¿ì½Ý¼üÈ«²¿ÒÆÖ²£¬Chrome ¿ØË²¼äÉÏÊÖ¡£
 ¾­³£·ÃÎÊµÄPath¿ÉÒÔ×ö³É**ÊéÇ©**£¬¿ìËÙ¶¨Î»£¬Ìá¸ßÐ§ÂÊ¡£
 
 ´Á->[Clover](http://cn.ejie.me/)
