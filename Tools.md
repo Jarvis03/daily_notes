@@ -44,3 +44,7 @@ Clover的功能就是给资源管理器加上**Chrome**一样的标签页。
 经常访问的Path可以做成**书签**，快速定位，提高效率。
 
 戳->[Clover](http://cn.ejie.me/)
+### 5. Ditto
+### 6. fadetop
+### 7. stickies
+### 8. snipaste
