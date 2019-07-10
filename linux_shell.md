@@ -102,7 +102,7 @@ ubuntu 支持Ded包管理工具，常用工具包括`dpkg`，`apt`
   
    
 
-5.  软件本地安装：`dpkg -i`: 安装  `dpkg -r`: 卸载
+
 
 
 
